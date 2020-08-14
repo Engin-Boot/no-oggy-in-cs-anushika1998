@@ -4,7 +4,8 @@
 
 ## Intention
 
-This program will remove strings containing 'oggy' from a list of strings as oggy has become the most wanted criminal in the world after the release of the latest episode.
+This program will remove strings containing 'oggy' from a list of strings as oggy has become the most wanted criminal
+in the world after the release of the latest episode.
 
 ## Method
 
